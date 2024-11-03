@@ -23,12 +23,12 @@ button {
 }
 
 .navleft{
-    display: flex; /* Agrupa los elementos de la izquierda */
-    gap: 10px; /* Espacio entre los elementos */
+    display: flex;
+    gap: 10px;
 }
 
 .navright {
-    display: flex; /* Agrupa los elementos de la derecha */
-    gap: 10px; /* Espacio entre los elementos */
+    display: flex;
+    gap: 10px;
     
   }
